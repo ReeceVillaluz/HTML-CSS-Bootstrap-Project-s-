@@ -1,0 +1,51 @@
+body {
+	padding-top: 70px;
+}
+
+h3 {
+	margin-left: 18.72px;
+	color: black;
+	letter-spacing: 1.5px;
+}
+p {
+
+ margin-left: 18.72px;
+ margin-right: 18.72px;
+ line-height: 1.15;
+
+}
+div {
+
+ margin-left: 18.72px;
+ margin-right: 18.72px;
+ line-height: 1.15;
+
+}
+.firstparagraph {
+	
+	color: black;
+	margin-left: 18.72px;
+	margin-right: 18.72px;
+	line-height: 1.15;
+}
+h2 {
+	font-weight: 800;
+	color: black;
+	margin-left: 18.72px;
+	letter-spacing: 1.15;
+}
+.div {
+	font-family: 'Source Sans Pro', sans-serif;
+	border: 23px solid darkblue;
+	padding-right: 6px;
+	max-width: 700px;
+	margin: 20px  auto;
+	background-color: white
+}
+
+hr.style-hr {
+	margin-top: 20px;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}

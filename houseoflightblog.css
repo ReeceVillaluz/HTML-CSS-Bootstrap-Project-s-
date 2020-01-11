@@ -1,0 +1,46 @@
+/*body {
+	padding-top: 70px;
+}*/
+
+#SLIDE_BG {
+	width: 100%;
+	height: 100vh;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	backface-visibility: hidden;
+	animation: slideBg 11s linear infinite 0s;
+	animation-timing-function: ease-in-out;
+	background-image: url('celestial.jpg');
+}
+@keyframes slideBg {
+	
+	25% {
+		background-image: url('jaredvibe.jpg');
+
+	}
+	
+	25% {
+		background-image: url('jaredandplants.jpg');
+
+	}
+	
+	75% {
+		background-image: url('flowerreece.jpg');
+
+	}
+	
+	100% {
+		background-image: url('celestial.jpg');
+
+	}
+}
+
+hr.style-eight {
+    overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
