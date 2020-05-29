@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html style="background: lightgray">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width = device-width, initial-scale = 1">
+	<title>Responsive Email</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+<!-- Classes for mobilizing -->
+<style>
+	@media only screen and (max width: 608px) {
+			.width100 {
+				width: 100% {
+					.width:90 {
+						width:90%;
+					}
+				}
+			}
+	}
+	
+</style>
+</head>
+<body style="max-width: 700px; margin: 20px auto; width: 80%;">
+
+
+<!-- Encapsulating table of entire newsletter -->
+<table class="emailcontainer" cellpadding="0" cellspacing="0" border="1" align="center" width="100%"class="width100">
+	
+	<tr> 
+		
+		<td style="background: lightgray;" >
+			<!-- Inner Table -->
+			<table cellpadding="0" cellspacing="0" border="1" align="center" width="275">
+				<tr>
+					<td>
+						<!-- Header Section -->
+						<table cellpadding="0" cellspacing="0" border="1" align="center" width="600" class="width100">
+							<tr>
+								<td>
+									<img src="https://images.squarespace-cdn.com/content/539893c2e4b011ee3e8ecce5/1457809517004-A8HYHGR40SRW6Q4F4CK9/Believe+Organics+Logo-1.jpg?format=1000w&content-type=image%2Fjpeg" style="max-width:600px;" class="width100" />
+								</td>
+							</tr>
+						</table>
+						<!-- Title Section -->
+						<table cellpadding="0" cellspacing="0" border="1" align="center" width="600" style="text-align: center;">
+							<tr>
+								<td style="background: pink" height="22"> <font color="white" size="3"> Click <a style="text-decoration: box;color: white" href="http://www.believeorganicsshop.com/">Order Now</a> while supplies last. </font></td></tr>
+							
+							<tr>
+
+								<td style="background: white">
+									<h2> The Believe Organics Motto:</h2>
+									
+									<p><strong>Good For You | Good For Your Family | Good For The Earth</strong></p>
+									<table style="background: lightblue" cellspacing="0" cellpadding="5" border="1" width="35%" align="center" class="width100">
+										<tr>
+											<td>
+												<a style=" text-decoration: none; color: white" href="http://www.believeorganicsshop.com/">START SHOPPING NOW </a>
+												
+											</td>
+										</tr>
+									</table>
+									<p style="line-height: 2; text-decoration: none;" > Everything you need to nourish your skin is found in nature, we've just blended and bottled it for your convenience.
+All believe organics products are handcrafted in small batches from the highest quality, certified organic botanical ingredients.  Every product is free of harmful preservatives, artificial colors, synthetic fragrances and <strong>NEVER</strong> tested on animals. Our intentions are pure and so are our products.</p> 
+<p style="text-decoration: underline;">Enjoy the power of plants! </p>
+
+								
+								</td>
+							</tr>
+							<tr>
+								<td style="background: pink" height="20"> <p>POPULAR OILS</p>
+									<p> Massage Oil and Three Step Skin Care Routine available now.  </p>
+
+								</td>
+							</tr>
+						</table>
+						<div style="background: white">
+						<!--Thumbnail card selection with titles -->
+						<table cellpadding="0" cellspacing="0" border="1" align="center" width="540" style="text-align: center" height="500" class="width100">
+							<tr>
+								<td>
+									<!--2 thumbnail table-->
+									<table cellpadding="0" cellspacing="0" border="1" align="center" width="600" class="width100" style="text-align: center">
+										<tr>
+											<td>
+												<!-- 1st single thumbnail table -->
+												<table cellpadding="0" cellspacing="0" border="1" align="left" width="275" class="width100">
+													<tr>
+														<td>
+													<a href="http://www.believeorganicsshop.com/shop/new-massage-oil"><img src="https://images.squarespace-cdn.com/content/v1/539893c2e4b011ee3e8ecce5/1486411746486-YGDCXJF6BYRHVBF83K87/ke17ZwdGBToddI8pDm48kIdMB_aPRF0pIoFAuL4pHxV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0tb-hnCqoepq4X8c1traqO_RnLcr-o51UB_3mmPP3u5u1eAcxzNmGboXlI7cr23P8A/MassageOIL.floral1.jpg" class="width100" 
+													style="max-width: 220px">
+												</a>
+													<h3><em>Gentle, after-glow massage</h3></em>
+													
+
+											</td>
+										</tr>
+									</table>
+									<!-- 2nd single thumbnail table -->
+									<table cellpadding="0" cellspacing="0" border="0" align="right" width="300" class="width100">
+												<tr>
+													<td>
+														<!--Single Thumbnail table -->
+														<table cellpadding="0" cellspacing="0" border="1" align="left" width="275" class="width100">
+															<tr>
+																<td>
+		<a href="http://www.believeorganicsshop.com/shop/skin-care-set"><img src="https://images.squarespace-cdn.com/content/v1/539893c2e4b011ee3e8ecce5/1481384618246-VJILDSSZCTLRGASKSB3C/ke17ZwdGBToddI8pDm48kPEwCqwDLwU-DBpuQeeeykR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcFlcm_07TqSzk_xXe0P8JxWdwCzbjO8-jY1cSzrhg372ombBdJUk8Dc7Ch2WAU4tg/3+Giant+Stepsparty+bkgrd+.jpg" class="width100" 
+							style="max-width: 220px"></a>
+		<h3> <em> Soft-skin care routine</h3></em>
+																	
+											
+				</td>
+					</tr>
+				</table>
+					</tr>
+				</td>
+				</table>
+					</td>
+				</tr>
+			</table>
+			<!-- 2 thumbnail table -->
+			<table cellpadding="0" cellspacing="0" border="1" align="center" width="600" style="text-align: center" class="width100">
+							<tr>
+								<td>
+									<!-- 3rd single thumbnail table -->
+									
+												<table cellpadding="0" cellspacing="0" border="1" align="left" width="275" class="width100">
+													<tr>
+														<td>
+													<a href="http://www.believeorganicsshop.com/shop/body-powder"><img src="https://images.squarespace-cdn.com/content/v1/539893c2e4b011ee3e8ecce5/1480713389991-9EG11C0LI181RG8XFJF2/ke17ZwdGBToddI8pDm48kPiqXlxBP6bjiTJJeNQREyp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0qN_-Z3B7EvygvPOPmeOryX1xuS4yRDh0v6pI5YeDpAjIKbPLfndRJnJ3r_EwFpLJQ/Talc.free.pow.jpg?format=1500w" class="width100" style="max-width: 220px"></a>
+													<h3> <em>Amazing talc-free powder</h3></em>
+												
+
+											</td>
+										</tr>
+									</table>
+									<table cellpadding="0" cellspacing="0" border="1" align="center" width="300" class="width100" >
+
+									
+
+									</table>
+									<!-- 4th single thumbnail table -->
+									<table cellpadding="0" cellspacing="0" border="1" align="center" width="275" class="width100">
+												<tr>
+													<td>
+													<a href="http://www.believeorganicsshop.com/shop/detox-bath" style="text-decoration: none; color: black"><img src="https://images.squarespace-cdn.com/content/v1/539893c2e4b011ee3e8ecce5/1486390457558-QCNJX25Z44APKUYIVSXJ/ke17ZwdGBToddI8pDm48kBbreg9YnI_L5ISjRktGOpZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luj0xCD0oh5KMc0gpox0u-xNhAmwx7aJ2ZxvCgXdonxNI7J94h4GBbFkA2wniPuRA/Detoxfocus.BLUR.jpg" class="width100" style=" max-width: 220px">
+													<h3><em>Relaxing, great detox bath soak</h3></em></a>
+												
+													
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+					</td>
+				</tr>
+			</table>
+			<!-- Closing Thumbnail Section -->
+
+
+
+
+
+
+</div>
+<!-- Click to Subscribe! -->
+<table style="background-color: pink" cellpadding="0" cellspacing="0" border="1" align="center" width="600" class="width100">
+	<tr>
+		<td>
+			<p> GREAT PRODUCT </p>
+			<p> Don't miss Talc-Free Body Powder and Detox Bath Soak </p>
+
+
+	<tr>
+		
+		<td>
+			</table>
+
+						
+
+			<h3> <em>Changing The World One Mind At A Time </em></h3>
+			
+			<table style="background: lightblue; margin: auto auto 12px auto" cellspacing="0" cellpadding="5" border="1" width="35%" align="center" class="width100">
+										<tr>
+											<td>
+												<a style=" text-decoration: none; color: white" href="http://www.believeorganicsshop.com/">START SHOPPING NOW </a>
+												
+											</td>
+										</tr>
+									</table>
+			
+
+<a href="http://www.believeorganicsshop.com/"><img align="center" src="data:image/jpeg;base64,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" alt="believeorganicslogo" class="width100" style="max-width: 100px"> </a> <br>
+	<tr>
+		<td style="background: pink" height="22">
+
+ <span align="center" style=" text-decoration: none; color: gray;"> Believe Organics&copy; LLC 2019 </span> 
+	
+		</td>
+	</tr>
+</td>
+</tr>
+
+</table>
+
+</body>
+
+</html>
