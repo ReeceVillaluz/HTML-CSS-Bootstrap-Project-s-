@@ -1,1 +1,1 @@
-# houseoflight
+# houseoflight I have a lot of projects, but ehre I've included a few that I liked especially and had a lot of fun with. I've made doxens of little projects, charts, to-do lists, websites, though I wanted to showcase these few pieces of code as  show of who I am as a designer, while keeping in mid I have a lot of room to grow, it's exponential! It's great to know that someone's out there, checking my code out, I hope you enjoy. This is just a small portion of what I can do as a developer, but are great projects I spent time on, and loved creating. Chow!
