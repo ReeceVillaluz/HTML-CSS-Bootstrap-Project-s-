@@ -1,2 +1,1 @@
-# houseoflight I have a lot of projects, but here I've included a few that I liked especially and had lots of fun with. I've made dozens of little projects, charts, to-do lists, websites, and whatnot, but I wanted to showcase these special pieces I coded to show sort of who I am as a dev. The room to grow is huge! It's fun to code, it's a great time, even the debugging parts. This is just a small portion of what I can do as a developer, but are still some great projects that I spent time on, and loved creating. 
-# Cheers! #cheeers
+
